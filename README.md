@@ -8,6 +8,6 @@
 
 🌷 Working on projects using C++ and MATLAB
 
-🌹 Currently learning Python
+🌹 Currently learning Python and Java
 
 🌻 Reach me at: casscantu@g.ucla.edu

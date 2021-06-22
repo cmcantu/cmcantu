@@ -10,4 +10,4 @@
 
 🌹 Currently learning Python and Java
 
-🌻 Reach me at: casscantu@g.ucla.edu
+🌻 Reach me at casscantu@g.ucla.edu

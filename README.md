@@ -6,6 +6,4 @@
 
 🌺 4th year UCLA bioE student
 
-🌷 Working on projects using C++ and MATLAB
-
-🌹 Currently learning Python and Java
+🌷 Working on projects using C++, MATLAB, Python, and Java
